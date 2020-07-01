@@ -18,7 +18,7 @@ Please follow the below development guidelines.
 
 ### Folder structure to be followed
 
-.
+```
 +-- src
 |   +-- app
     |   +--_guard
@@ -40,7 +40,7 @@ Please follow the below development guidelines.
         |   +--library
         |   +--utility
     |   +--style.scss
-
+```
 
 ### Style guide
 
